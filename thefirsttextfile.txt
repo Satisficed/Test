@@ -1,0 +1,5 @@
+The first text line.
+The second text line.
+The third text line
+git commit // ammend
+https://developer.mozilla.org/en-US/docs/Learn_web_development
